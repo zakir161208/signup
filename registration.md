@@ -1,5 +1,5 @@
 #Registration
-On the registration page, you will see a Sign In option. If you already Sign In before on your website. You will just need to give the email and password then click submit. Then you can buy any product from our website.
+On the registration page, you will see a Sign In option. If you already Sign In before on your website. You will just need to give the email and password then click submit. Then you can buy any product from our website.and this page goes to the main page
 
 
 #Sign In
