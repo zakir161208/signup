@@ -5,7 +5,8 @@ On the registration page, you will see a Sign In option. If you already Sign In 
 #Sign In
 ![SignIn](img/signin.png)
 
-If you do not sign in to our website before then first of all you need to give a username, email, password and click submit to sign up on our website. After sign up on our website, you can sign in and buy whatever you want from our website.
+If you do not sign in to our website before then first of all you need to give a username, email, password and click submit to sign up on our website. After sign up on our website, you can sign in and buy whatever you want from our website. we can also search the product with out sign up
+
 
 #Sign Up
 ![SignUp](img/signup.png)
